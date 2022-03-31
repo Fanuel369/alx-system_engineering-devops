@@ -1,1 +1,2 @@
-shell permissioms
+#!/bin/bash
+shell basics
