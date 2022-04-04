@@ -1,2 +1,2 @@
 #!/bin/bash
-grep “root” /etc/passwd | head -3[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D3 'root'[D[D[D[D[D[D[D[D[D[D[D[D[D[D[C[C[C[C[C-A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[ 3 root /etc/passwd
+grep -A 3 root /etc/passwd 
