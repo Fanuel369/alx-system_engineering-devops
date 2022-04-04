@@ -1,0 +1,2 @@
+#!/bin/bash
+cut -cl  |[C[C[C| paste -s | tr -d "[:blank:]"
