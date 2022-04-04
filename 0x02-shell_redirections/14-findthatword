@@ -1,2 +1,2 @@
 #!/bin/bash
-grep 'root"[D[D[D[D["[C[C[C[C[C /etc/passwd 
+grep 'root" /etc/passwd 
