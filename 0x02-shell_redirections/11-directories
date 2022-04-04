@@ -1,2 +1,2 @@
 #!/bin/bash
-find ./* -type -d print[D[D[D[D[D-p[D[Cr[Drint[D[D[D[D[D[D[D[B[C[C[C[C[C[C[C[C[C[C[C| wc -l
+find ./* -type d -print | wc -l
