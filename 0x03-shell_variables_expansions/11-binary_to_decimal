@@ -1,2 +1,2 @@
 #!/bin/bash
-echo (([D[D$(($BINARY[D[D[D[D[D[D[D2#[C[C[C[C[C))
+echo $((2#$BINARY))
