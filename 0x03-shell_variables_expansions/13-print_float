@@ -1,2 +1,2 @@
 #!/bin/bash
-prinf '%.2f\m' $NUM
+ printf "%0.2f\n" $NUM
