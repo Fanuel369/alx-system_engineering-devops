@@ -1,2 +1,2 @@
 #!/bin/bash
-$PATH | wc -l[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[D[echo $PATH | tr ':' '\n' | wc -l
+echo $PATH | tr ':' '\n' | wc -l
